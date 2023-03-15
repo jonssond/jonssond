@@ -1,4 +1,6 @@
-Brazilian student of Software Analysis and Development.  
+Brazilian student of Software Analysis and Development. 
+
+EN/PT-BR
 
 <div align="center">
   <a href="https://github.com/bolshooi">
