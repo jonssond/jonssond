@@ -1,8 +1,9 @@
 
 <div align="justify">
+  <p>PT-BR | EN</p>
+  <br>
   <p>I am a student of Systems Analysis and
-Development at Centro Universitário
-Braz Cubas, with a degree in
+Development at Braz Cubas Univeristy, with a degree in
 Electrotechnology from SENAI.
 Currently, I work as an IT intern at
 Sanofi. My major aspiration is to
