@@ -1,6 +1,6 @@
 
 <div align="justify">
-  <p>PT-BR | EN</p>
+  <p align="center">PT-BR | EN</p>
   <br>
   <p>I am a student of Systems Analysis and
 Development at Braz Cubas Univeristy, with a degree in
