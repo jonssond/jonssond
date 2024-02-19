@@ -4,7 +4,6 @@
 <div align="justify">
   <p align="center">PT-BR | EN</p>
   <br>
-  <br>
 </div>
 <div align="center">
   <a href="https://github.com/jonssond">
