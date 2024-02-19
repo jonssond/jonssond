@@ -19,6 +19,7 @@ collaborative teams in a proactive
 manner and committed to adopting an
 agile mindset for development.
 </p>
+  <br>
 </div>
 <div align="center">
   <a href="https://github.com/jonssond">
