@@ -1,5 +1,5 @@
 
-<div style="text-align: justify;">
+<div align="justify">
   <p>I am a student of Systems Analysis and
 Development at Centro Universitário
 Braz Cubas, with a degree in
