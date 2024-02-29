@@ -9,10 +9,12 @@
   <a href="https://github.com/jonssond">
   <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonssond&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+<br>
 <p align="center">
+  <h2>Skills</h2>
+  <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,c,php,java" />
+    <img src="https://skillicons.dev/icons?i=js,react,c,php,java&theme=dark" />
   </a>
 </p>
 
