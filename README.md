@@ -15,7 +15,7 @@
   <h2>Skills</h2>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,c&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,c&theme=light" />
   </a>
 </p>
 </div>
