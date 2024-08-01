@@ -18,7 +18,7 @@
   <h4>dbs</h4>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
-  </a
+  </a>
   <h4>tools</h4>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,docker,idea,vscode&theme=dark" />
