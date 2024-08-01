@@ -5,23 +5,10 @@
   <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonssond&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
-<div>
-<p>
-  <h4>languages</h4>
+    <div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" />
-  </a>
-  <h4>frameworks & libs</h4>
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,express,nodejs,spring&theme=dark" />
-  </a>
-  <h4>databases</h4>
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
-  </a>
-  <h4>tools</h4>
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,docker,idea,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,express,nodejs,spring,mongodb,postgresql,mysql,git,docker&theme=dark" />
   </a>
 </p>
 </div>
