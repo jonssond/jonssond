@@ -12,6 +12,18 @@
   </a>
 </p>
 </div>
+<div>
+<p>
+  <p>languages</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" />
+  </a>
+  <p>frameworks & libs</p>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,express,spring&theme=dark" />
+  </a>
+</p>
+</div>
 
 
 
