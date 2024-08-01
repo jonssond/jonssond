@@ -15,7 +15,7 @@
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,express,nodejs,spring&theme=dark" />
   </a>
-  <h4>dbs</h4>
+  <h4>databases</h4>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
   </a>
