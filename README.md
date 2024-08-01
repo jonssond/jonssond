@@ -11,7 +11,7 @@
 <br>
 <div align="center">
 <p align="center">
-  <h2>languages & tools</h2>
+  <p>languages & tools</p>
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,express,react,git,mongodb,postgresql,python,java&theme=dark" />
