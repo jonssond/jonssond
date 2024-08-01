@@ -1,7 +1,6 @@
 <p align="center">software developer from brazil</p>
 <div align="justify">
   <p align="center">pt-br | en</p>
-  <br>
 </div>
 <div align="center">
 <p align="center">
