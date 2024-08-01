@@ -22,6 +22,14 @@
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,express,spring&theme=dark" />
   </a>
+  <p>dbs</p>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
+  </a>
+  <p>tools</p>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,docker,intellij,vscode&theme=dark" />
+  </a>
 </p>
 </div>
 
