@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Diogo!</h1>
-<h3 align="center">Software Developer from Brazil</h3>
+<p align="center">software developer from brazil</p>
 
 <div align="justify">
-  <p align="center">PT-BR | EN</p>
+  <p align="center">pt-br | en</p>
   <br>
 </div>
 <div align="center">
@@ -12,7 +11,7 @@
 <br>
 <div align="center">
 <p align="center">
-  <h2>Skills</h2>
+  <h2>languages & tools</h2>
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,express,react,git,mongodb,postgresql,python,java&theme=dark" />
