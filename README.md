@@ -7,22 +7,19 @@
 <br>
 <div>
 <p>
-  <p>languages</p>
+  <h4>languages</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" />
   </a>
-  <br/>
-  <p>frameworks & libs</p>
+  <h4>frameworks & libs</h4>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,express,node,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,express,nodejs,spring&theme=dark" />
   </a>
-  <br/>
-  <p>dbs</p>
+  <h4>dbs</h4>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
   </a
-  <br/>
-  <p>tools</p>
+  <h4>tools</h4>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,docker,idea,vscode&theme=dark" />
   </a>
