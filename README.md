@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&letterSpacing=1px&pause=1000&color=4C24F7&center=true&width=435&lines=Software+Developer+from+Brazil;Intern+at+%40NewGo+)](https://git.io/typing-svg)
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&letterSpacing=1px&pause=1000&color=4C24F7&center=true&width=435&lines=Software+Developer+from+Brazil;Intern+at+%40NewGo+)](https://git.io/typing-svg)</div>
 <div align="center">
   <a href="https://github.com/jonssond">
   <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonssond&layout=compact&langs_count=7&theme=tokyonight"/>
