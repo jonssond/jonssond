@@ -1,12 +1,12 @@
 ```console
 diogo@github:~$ whoami
-     __.oOo.__
-    /'(  _  )`\        USER:       diogo
-   / . \/^\/ . \       ROLE:       software engineer intern at @nubank
-  /  _)_`-'_(_  \      LOCATION:   mogi das cruzes, brazil
- /.-~   ).(   ~-.\     HOBBIES:    guitar, reading and running (sometimes)
-/'     /\_/\     `\    INTERESTS:  software architecture | distributed systems | problem solving | competitive programming
-     . "-V-"
+       /\
+      (  )        USER:       diogo
+   .--.\/.--.     ROLE:       software engineer intern at @nubank
+  (/`\_\/_/`\)    LOCATION:   mogi das cruzes, brazil
+  '  {____}  '    HOBBIES:    guitar, reading and running (sometimes)
+    ,_//\\_,      INTERESTS:  software architecture | distributed systems | problem solving | competitive programming
+     '-\/-'
 
 diogo@github:~$ cat tech-stack.txt
 -------------------------------------------------------------
