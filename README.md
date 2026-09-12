@@ -19,4 +19,5 @@ drwxr-xr-x  junior software developer    newcad    jun-25 - jan-26
 drwxr-xr-x  software developer intern    newgo     jun-24 - jun-25
 
 diogo@github:~$ _
+## ascii art credit: https://www.asciiart.eu/art/a919d5986d99b375
 ```
